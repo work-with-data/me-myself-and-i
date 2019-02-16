@@ -4,5 +4,6 @@
 
 ## Animal-speak
 
-* [Animal-speak](animal-speak-1/animal-speak.md)
+* [Animal-speak as it is](animal-speak-1/animal-speak/README.md)
+  * [TensorFlow and TensorBoard](animal-speak-1/animal-speak/tensorflow-and-tensorboard.md)
 
